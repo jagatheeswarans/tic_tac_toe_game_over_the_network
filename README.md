@@ -9,4 +9,4 @@ To run the application:
 4. Click "Start" button on the Server window
 5. Lauch two clients. To start a client: python 2player_tic_tac_toe_game_client.py
 6. Enter player name and click on "Connect" button
-7. The game starts when two clients (players) are connected. Enjoy!
+7. The game starts when two clients (players) are connected.
